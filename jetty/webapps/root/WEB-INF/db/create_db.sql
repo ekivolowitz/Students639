@@ -36,7 +36,8 @@ INSERT INTO USERS VALUES ("Wasts1966", "aiPhunoo1wae");
 INSERT INTO USERS VALUES ("Crad1966", "ohshiZ1roj");
 INSERT INTO USERS VALUES ("Twout1945", "va3poh1jaeYae");
 INSERT INTO USERS VALUES ("some_guy", "his_password");
-
+INSERT INTO USERS VALUES ("some_girl", "her_password");
+INSERT INTO USERS VALUES ("some_person", "their_password");
 INSERT INTO REVIEWS VALUES ("1", "Swily1935", CURRENT_TIMESTAMP, "I like that boulder. That is a nice boulder.");
 INSERT INTO REVIEWS VALUES ("2", "Whosecter48", CURRENT_TIMESTAMP, "You see, Ogres are like onions. They have layers.");
 INSERT INTO REVIEWS VALUES ("3", "Sairing", CURRENT_TIMESTAMP, "Ross and Rachel were not on a break.");
